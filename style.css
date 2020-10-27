@@ -1,0 +1,27 @@
+
+div {
+    background-color: #00a7d1;
+    width: 100%;
+    /*border: 25px solid green;*/
+    height: 50px;
+    float: right;
+}
+#top-menu a{
+	display: block;
+	float: left;
+	color:  #ffffff;
+	text-decoration: none;
+}
+.nav{
+height: 50px;
+width: 150px;
+text-align: center;
+line-height: 50px;
+}
+.mvp{
+height: 50px;
+width: 150px;
+text-align: center;
+line-height: 50px;
+float: left;
+}
